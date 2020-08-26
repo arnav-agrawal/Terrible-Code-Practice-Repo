@@ -85,7 +85,7 @@ def simple_integrate(f, x):
   
 def fibonacci(n): 
     """
-    Recursive function that return the nth Fibonacci number in the sequence
+    ecursive function that return the nth Fibonacci number in the sequence
 
     Parameters
     ----------
